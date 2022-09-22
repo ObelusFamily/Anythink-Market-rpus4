@@ -26,5 +26,3 @@ If docker is running correctly use the following link to test http://localhost:3
 Now it is time to check the frontend and make sure it's connected to the backend.
 
 To do this head over to http://localhost:3001/register and create a new user name.
-
-Test I should be able to edit this since it is local.
